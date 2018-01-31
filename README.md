@@ -20,6 +20,4 @@ For information on getting a bot token, follow the steps on [the Discord develop
 
 This was created for a friend's Discord server, but I wanted to share it with added flexibility for anyone to use.
 
---
-
 This relies on the API hosted at https://api.mcsrvstat.us
